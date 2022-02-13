@@ -14,6 +14,7 @@ module.exports = {
         },
       },
     },
+    "gatsby-plugin-postcss",
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: "gatsby-source-filesystem",
